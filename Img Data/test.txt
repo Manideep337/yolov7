@@ -1,0 +1,4 @@
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/test/IMG_3391.txt
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/test/IMG_3395.txt
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/test/IMG_3391.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/test/IMG_3395.JPG

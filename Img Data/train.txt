@@ -1,0 +1,9 @@
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3393.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3392.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3390.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3394.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3396.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3397.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3398.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3388.JPG
+/Users/manideep/PycharmProjects/yolov7/Img Data/Images/train/IMG_3389.JPG

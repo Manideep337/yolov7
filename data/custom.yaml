@@ -1,0 +1,6 @@
+train: /Users/manideep/PycharmProjects/yolov7/Img Data/Images/train
+val: /Users/manideep/PycharmProjects/yolov7/Img Data/Images/test
+# number of classes
+nc: 1
+# class names
+names: ["mouse"]
